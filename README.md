@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm David Lee. What am I right now? A software developer. I mostly write code for frontend in React/Typescript these days, but I have a lot of passions and you can't just call me a frontend engineer.  
+
+On second thought, I'll come back to this.  For now, consider it a work in progress
